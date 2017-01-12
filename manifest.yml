@@ -3,8 +3,8 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: <input the name here>
-  host: <input the host here>
+  name: profileforplayback-liu
+  host: profileforplayback-liu
   disk_quota: 1024M
   
   
